@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name:       Simple Lead Gen Form
- * Plugin URI:        https://www.elegantthemes.com/slgf
+ * Plugin URI:        https://www.w3CodeMaster.com/Simple-Lead-Gen-Form
  * Description:       Shortcode:[slgfFrom] and supported atts: [title, name, name-max, phone, phone-max, email, email-max, message, message-rows, message-cols]
  * Version:           1.0.0
- * Author:            Elegant Themes
- * Author URI:        https://www.elegantthemes.com
+ * Author:            Masud Rana
+ * Author URI:        https://profiles.wordpress.org/yeelloo/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       slgf

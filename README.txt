@@ -1,6 +1,6 @@
 === Simple Lead Gen Form ===
-Contributors: (this should be a list of wordpress.org userid's)
-Donate link: https://www.elegantthemes.com
+Contributors: yeelloo
+Donate link: https://profiles.wordpress.org/yeelloo/
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 3.4
