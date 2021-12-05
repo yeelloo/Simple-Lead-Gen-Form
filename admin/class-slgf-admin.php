@@ -41,7 +41,7 @@ class Slgf_Admin {
 		$args = array(
 			'labels'              => $labels,
 			'hierarchical'        => false,
-			'description'         => 'description',
+			'description'         => 'Customer Leads',
 			'taxonomies'          => array('category', 'post_tag'),
 			'public'              => false,
 			'show_ui'             => true,
