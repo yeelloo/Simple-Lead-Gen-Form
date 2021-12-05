@@ -49,13 +49,16 @@ This is the long description.  No limit, and you can use Markdown (as well as in
 
 1. Upload `slgf.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Place `<?php do_shortcode('slgfFrom'); ?>` in your templates
 
 == Frequently Asked Questions ==
 
-= All Your Quistions Answered Here =
+= How to use it? =
 
-An answer to that question.
+You can place the form anywere by using shortcode: [slgfFrom]
+
+= Does the shortcode support any attributes? =
+The shortcoe comes with followig atts "title, name, name-max, phone, phone-max, email, email-max, message, message-rows, message-cols"
 
 == Screenshots ==
 
