@@ -3,7 +3,7 @@
 /**
  * Plugin Name:       Simple Lead Gen Form
  * Plugin URI:        https://www.w3CodeMaster.com/Simple-Lead-Gen-Form
- * Description:       Shortcode:[slgfFrom] and supported atts: [title, name, name-max, phone, phone-max, email, email-max, message, message-rows, message-cols]
+ * Description:       Shortcode:<strong>[slgfFrom]</strong> and supported atts: <strong>[title, name, name-max, phone, phone-max, email, email-max, message, message-rows, message-cols]</strong>
  * Version:           1.0.0
  * Author:            Masud Rana
  * Author URI:        https://profiles.wordpress.org/yeelloo/
